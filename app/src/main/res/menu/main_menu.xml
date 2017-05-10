@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/allID"
+        android:title="@string/all"
+        />
+    <item
+        android:id="@+id/scienceID"
+        android:title="@string/scienceandnature"
+         />
+    <item
+        android:id="@+id/gameID"
+        android:title="@string/gaming"
+         />
+    <item
+        android:id="@+id/techID"
+        android:title="@string/technology"
+        />
+    <item
+        android:id="@+id/bussID"
+        android:title="@string/business"
+         />
+    <item
+        android:id="@+id/polID"
+        android:title="@string/politics"
+         />
+    <item
+        android:id="@+id/genID"
+        android:title="@string/general"
+        />
+    <item
+        android:id="@+id/entID"
+        android:title="@string/entertainment"
+         />
+    <item
+        android:id="@+id/spID"
+        android:title="@string/sport"
+         />
+    <item
+        android:id="@+id/muID"
+        android:title="@string/music"
+         />
+
+</menu>
